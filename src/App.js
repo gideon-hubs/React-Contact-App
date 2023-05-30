@@ -13,28 +13,28 @@ class App extends Component {
         {
           name: "Gideon",
           email: "og@gmail.com",
-          gen: 30,
+          gen: "0201449675",
           id: "ASC1"
         }, 
 
         {
           name: "Selasie",
           email: "og@gmail.com",
-          gen: 30,
+          gen: "02412345867",
           id: "ASC2"
         },
 
         {
           name: "Chinda",
           email: "og@gmail.com",
-          gen: 30,
+          gen: "0203467309",
           id: "ASC3"
         },
 
         {
           name: "Chinda",
           email: "og@gmail.com",
-          gen: 30,
+          gen: "05345678654",
           id: "ASC4"
         },
       ]

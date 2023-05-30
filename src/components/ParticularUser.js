@@ -39,7 +39,7 @@ function ParticularUser(props) {
        <Card.Title>{props.userInfo.name}</Card.Title>
        <Card.Text>
          <p>Email: {props.userInfo.email}</p>
-         <p>Gen: {props.userInfo.gen}</p>
+         <p>Mobile Number: {props.userInfo.gen}</p>
        </Card.Text>
        <Card.Link href="#"><Button variant='primary' onClick={handleShow}>Edit</Button></Card.Link>
        <Card.Link href="#"><Button variant='danger' onClick={handleDelete}>Delete</Button></Card.Link>

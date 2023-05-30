@@ -48,8 +48,8 @@ class EditUsers extends Component {
       </Form.Group>
 
       <Form.Group className="mb-3" controlId="formBasicPassword">
-        <Form.Label>Gen</Form.Label>
-        <Form.Control type="number" placeholder="Gen" name='gen' onChange={this.handleChange} value={this.state.gen}/>
+        <Form.Label>Mobile Number</Form.Label>
+        <Form.Control type="number" placeholder="mobile number" name='gen' onChange={this.handleChange} value={this.state.gen}/>
       </Form.Group>
       <Button variant="primary" type="submit">
         Submit
